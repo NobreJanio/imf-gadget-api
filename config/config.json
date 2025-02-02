@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "janio",
+    "password": "janio123",
+    "database": "imf_gadget_api_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "janio",
+    "password": "janio123",
+    "database": "imf_gadget_api_test_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "janio",
+    "password": "janio123",
+    "database": "imf_gadget_api_prod_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
